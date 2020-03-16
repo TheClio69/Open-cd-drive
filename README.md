@@ -14,4 +14,5 @@ To install it, you can simply run the following command: git clone https://githu
 To use this script, you can simply recreate the file. Open your favorite text editor and copy and paste the contents of the file [open.vbs](https://github.com/TheClio69/Open-cd-drive/blob/master/open.vbs/).
 
 You can see an example below (sorry, it's written in french on the screenshot, because I'm french :sunglasses:) :
+
 ![Save the open file in vbs format](https://github.com/TheClio69/Open-cd-drive/blob/master/.github/save%20open.png)

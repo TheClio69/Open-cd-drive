@@ -16,3 +16,6 @@ To use this script, you can simply recreate the file. Open your favorite text ed
 You can see an example below (sorry, it's written in french on the screenshot, because I'm french :sunglasses:) :
 
 ![Save the open file in vbs format](https://github.com/TheClio69/Open-cd-drive/blob/master/.github/save%20open.png)
+
+## Use and editing
+You can use, modify, share this script freely because it is open-source under the MIT license.

@@ -8,7 +8,7 @@ You just need to double-click on the vbs file for the program to run.
 
 ## Installation
 ###### Clone the directory 
-To install it, you can simply run the following command: `git clone https://github.com/TheClio69/Open-cd-drive.`
+To install it, you can simply run the following command: `git clone https://github.com/TheClio69/Open-cd-drive`.
 
 ###### Recreate the file
 To use this script, you can simply recreate the file. Open your favorite text editor and copy and paste the contents of the [open.vbs](https://github.com/TheClio69/Open-cd-drive/blob/master/open.vbs/) file.
